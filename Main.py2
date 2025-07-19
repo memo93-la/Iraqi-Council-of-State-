@@ -1,0 +1,14 @@
+#برنامج المولدة 350KVA
+print("مجلس الدولة ")
+print('preading =')
+a=int(input())
+print('creadind =')
+b=float(input())
+f1=(b-a)*35
+print('s1=')
+s1=int(input())
+print('s2 =')
+s2=int(input())
+print("hours = ", b-a)
+print("SS =",s2-s1)
+print("fule = ",f1)
